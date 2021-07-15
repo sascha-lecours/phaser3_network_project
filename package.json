@@ -1,0 +1,22 @@
+{
+  "name": "phaser3_network_project",
+  "version": "1.0.0",
+  "description": "A small project to learn Phaser3, with networking!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sascha-lecours/phaser3_network_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sascha-lecours/phaser3_network_project/issues"
+  },
+  "homepage": "https://github.com/sascha-lecours/phaser3_network_project#readme",
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}
